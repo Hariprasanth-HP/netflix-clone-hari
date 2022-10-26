@@ -1,0 +1,27 @@
+.Navdiv {
+  position: fixed;
+  width: 100%;
+  padding: 10px;
+  height: 30px;
+  transition-timing-function: ease-in;
+  transition: all 0.5s;
+}
+.NavBlack {
+  background-color: black;
+}
+
+.LogoImg {
+  position: fixed;
+  height: 2rem;
+  width: 6.75rem;
+  object-fit: contain;
+  padding-left: 20px;
+  cursor: pointer;
+}
+
+.SubLogoimg {
+  position: fixed;
+  right: 20px;
+  width: 30px;
+  cursor: pointer;
+}
